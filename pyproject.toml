@@ -3,7 +3,7 @@ name = "ai-project"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "sangho.jeon",email = "sangho.jeon@lgepartner.com"}
+    {name = "sangho",email = "blacktop39@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.13"
